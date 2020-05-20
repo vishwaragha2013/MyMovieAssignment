@@ -18,6 +18,7 @@ This is simple Android application to show popular movie list and their details 
 * [RxJava](https://github.com/ReactiveX/RxAndroid)
 * [Dagger2](https://github.com/google/dagger)
 * [Glide](https://github.com/bumptech/glide)
+* [LeakCanary](https://square.github.io/leakcanary/)
 
 # Demo
 ![LoginScreen_1](https://user-images.githubusercontent.com/23334943/82436802-08c2db00-9ab4-11ea-98ec-c13ed4ebec3b.png)
