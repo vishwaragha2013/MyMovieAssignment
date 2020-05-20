@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">MyMovieAssignment</string>
+    <string name="app_name">MovieLand</string>
+    <string name="text_movie_overview">About the Movie</string>
+    <string name="text_network_error">Network Error</string>
+    <string name="text_network_error_message">Network not available,Please retry after checking wifi and mobile data</string>
+    <string name="text_ok">OK</string>
+    <string name="text_signin">SignIn</string>
+    <string name="text_movie_land">Welcome to MovieLand</string>
+    <string name="text_recommended_movies">Recommended Movies</string>
+
 </resources>
